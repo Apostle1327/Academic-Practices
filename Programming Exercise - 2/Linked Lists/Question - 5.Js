@@ -1,7 +1,7 @@
 // Remove an element chosen by the user, from the Linked List.
 
 // Space Complexity = O(n).
-// Space Complexity = O(n).
+// Time Complexity = O(n).
 
 class Node {
   constructor(data) {
